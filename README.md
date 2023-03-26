@@ -10,7 +10,7 @@ os
 plotly.express
 json
 
-Need to have Atlanta_Neighborhoods.geojson and atlcrime in the same repertory as the code
+Need to have Atlanta_Neighborhoods.geojson and atlcrime (need to extract the .rar) in the same folder as the code
 
 Need to change the current working directory in the code to make it work for you
 
